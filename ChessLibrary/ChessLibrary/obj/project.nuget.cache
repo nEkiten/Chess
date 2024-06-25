@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "de0h3+0XxHOwwGZHi+WEszCFDTirENFtYKh1GWzoXeKp8ikb7JE3y51Z1WU105lR9cTKBTwpFN4AseHlpcKPOQ==",
+  "dgSpecHash": "k4Qsn7AMM7lzIWC3/q7L8ZqXTYK1OyopwTtQGnjfUGwNm0ORadblioRybPK4Ocim/JVYb159TUMGVAv03Nf9+Q==",
   "success": true,
-  "projectFilePath": "E:\\for study\\ООП\\Chess\\ChessLibrary\\ChessLibrary\\ChessLibrary.csproj",
+  "projectFilePath": "E:\\for study\\ООП\\Chess\\ChessLibrary\\ChessLibrary\\Chess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

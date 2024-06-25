@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\for study\\ООП\\Chess\\ChessLibrary\\ChessLibrary\\ChessLibrary.csproj",
-      "projectName": "ChessLibrary",
-      "projectPath": "E:\\for study\\ООП\\Chess\\ChessLibrary\\ChessLibrary\\ChessLibrary.csproj",
+      "projectUniqueName": "E:\\for study\\ООП\\Chess\\ChessLibrary\\ChessLibrary\\Chess.csproj",
+      "projectName": "Chess",
+      "projectPath": "E:\\for study\\ООП\\Chess\\ChessLibrary\\ChessLibrary\\Chess.csproj",
       "packagesPath": "C:\\Users\\79128\\.nuget\\packages\\",
       "outputPath": "E:\\for study\\ООП\\Chess\\ChessLibrary\\ChessLibrary\\obj\\",
       "projectStyle": "PackageReference",
